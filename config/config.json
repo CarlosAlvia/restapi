@@ -19,6 +19,6 @@
     "database": "railway",
     "host": "viaduct.proxy.rlwy.net",
     "dialect": "mysql",
-    "port:" "45488"
+    "port": "45488"
   }
 }
